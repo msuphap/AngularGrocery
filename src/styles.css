@@ -1,4 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 .strike{
     text-decoration:line-through;
+    color: red;
+}
+
+body{
+  font-family: Arial;
+  background-color: #ff8dc1;
+  background-image: url("./app/grocery/images/cart.gif");
+  background-position: bottom right;
+  background-repeat: no-repeat;
 }
